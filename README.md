@@ -23,3 +23,6 @@ Things you may want to cover:
 
 * ...
 "# alpha-blog" 
+
+Add Bootstrap to RailsApp.
+https://www.mashrurhossain.com/blog/rails6bootstrap4
