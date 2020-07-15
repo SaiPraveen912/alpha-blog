@@ -26,3 +26,9 @@ Things you may want to cover:
 
 Add Bootstrap to RailsApp.
 https://www.mashrurhossain.com/blog/rails6bootstrap4
+
+
+Sticky footer added from here :
+https://jsfiddle.net/StartBootstrap/out2g1mq/   video ref : https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/learn/lecture/3851068?start=810#questions
+
+
