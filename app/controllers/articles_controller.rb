@@ -19,7 +19,7 @@ class ArticlesController < ApplicationController
     def create
         # Save article to DB and then can view on articles listing page. 
         @article = Article.new(article_params)  # white listing
-        @article.user = User.first
+        @article.user = current_user
         if @article.save
             flash[:notice] = "Article was created successfully."
             redirect_to @article  # Where we want it to go after saving to DB.
